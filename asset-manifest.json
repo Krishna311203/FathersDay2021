@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Krishna311203.github.io/FathersDay2021/static/css/main.2d314066.chunk.css",
-    "main.js": "/Krishna311203.github.io/FathersDay2021/static/js/main.ebeca529.chunk.js",
-    "main.js.map": "/Krishna311203.github.io/FathersDay2021/static/js/main.ebeca529.chunk.js.map",
-    "runtime-main.js": "/Krishna311203.github.io/FathersDay2021/static/js/runtime-main.1b9363fe.js",
-    "runtime-main.js.map": "/Krishna311203.github.io/FathersDay2021/static/js/runtime-main.1b9363fe.js.map",
-    "static/js/2.37560a93.chunk.js": "/Krishna311203.github.io/FathersDay2021/static/js/2.37560a93.chunk.js",
-    "static/js/2.37560a93.chunk.js.map": "/Krishna311203.github.io/FathersDay2021/static/js/2.37560a93.chunk.js.map",
-    "index.html": "/Krishna311203.github.io/FathersDay2021/index.html",
-    "static/css/main.2d314066.chunk.css.map": "/Krishna311203.github.io/FathersDay2021/static/css/main.2d314066.chunk.css.map",
-    "static/js/2.37560a93.chunk.js.LICENSE.txt": "/Krishna311203.github.io/FathersDay2021/static/js/2.37560a93.chunk.js.LICENSE.txt",
-    "static/media/getFetch.cjs": "/Krishna311203.github.io/FathersDay2021/static/media/getFetch.5fde86e3.cjs"
+    "main.css": "/FathersDay2021/static/css/main.2d314066.chunk.css",
+    "main.js": "/FathersDay2021/static/js/main.e39cbb55.chunk.js",
+    "main.js.map": "/FathersDay2021/static/js/main.e39cbb55.chunk.js.map",
+    "runtime-main.js": "/FathersDay2021/static/js/runtime-main.d0438c1b.js",
+    "runtime-main.js.map": "/FathersDay2021/static/js/runtime-main.d0438c1b.js.map",
+    "static/js/2.37560a93.chunk.js": "/FathersDay2021/static/js/2.37560a93.chunk.js",
+    "static/js/2.37560a93.chunk.js.map": "/FathersDay2021/static/js/2.37560a93.chunk.js.map",
+    "index.html": "/FathersDay2021/index.html",
+    "static/css/main.2d314066.chunk.css.map": "/FathersDay2021/static/css/main.2d314066.chunk.css.map",
+    "static/js/2.37560a93.chunk.js.LICENSE.txt": "/FathersDay2021/static/js/2.37560a93.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/FathersDay2021/static/media/getFetch.5fde86e3.cjs"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b9363fe.js",
+    "static/js/runtime-main.d0438c1b.js",
     "static/js/2.37560a93.chunk.js",
     "static/css/main.2d314066.chunk.css",
-    "static/js/main.ebeca529.chunk.js"
+    "static/js/main.e39cbb55.chunk.js"
   ]
 }
