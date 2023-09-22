@@ -28,9 +28,7 @@ const Home: React.FC = (props) => {
         { image: t('images.2.image'), comment: t('images.2.comment') },
         { image: t('images.3.image'), comment: t('images.3.comment') },
         { image: t('images.4.image'), comment: t('images.4.comment') },
-        { image: t('images.5.image'), comment: t('images.5.comment') },
-        { image: t('images.6.image'), comment: t('images.6.comment') },
-        { image: t('images.7.image'), comment: t('images.7.comment') }
+        { image: t('images.5.image'), comment: t('images.5.comment') }
       ]} >
     </HomeTemplate >
   )
